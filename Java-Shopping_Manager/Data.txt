@@ -1,0 +1,1 @@
+Electronics,001,Fan,12,100.0,singer,1y
